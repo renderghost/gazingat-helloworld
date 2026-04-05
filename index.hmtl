@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>gazing.at</title>
+    <style>
+      body { font-family: system-ui, sans-serif; display: grid; place-items: center; min-height: 100vh; margin: 0; background: #f7f7f7; color: #222; }
+      .box { text-align: center; padding: 2rem; max-width: 28rem; }
+      h1 { margin: 0 0 0.5rem; font-size: 2rem; }
+      p { margin: 0.5rem 0; line-height: 1.5; }
+    </style>
+  </head>
+  <body>
+    <div class="box">
+      <h1>gazing.at</h1>
+      <p>This domain is currently parked.</p>
+    </div>
+  </body>
+</html>
